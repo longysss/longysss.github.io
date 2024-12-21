@@ -14,26 +14,18 @@ I am interested in next-generation network communication and intelligent computi
 I obtained my M.S degree at the School of Electronics and Communication Engineering, Guangzhou University (GZHU), supervised by Prof. [Dong Tang](https://ece.gzhu.edu.cn/info/1087/1072.htm). 
 
 My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. 
-Our key objective is to explore <font color=green>"how to adjust communication strategies to support real-time services in dynamic networks"</font>, and <font color=green>"how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks"</font>. 
+The key objective is to explore <font color=green>"how to adjust communication strategies to support real-time services in dynamic networks"</font>, and <font color=green>"how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks"</font>. 
 This involves exploring the integration of various networking methodologies:
 
-1. AI for Network:
-   - Generative artificial intelligence and network optimization
-   - Reinforcement learning and its applications in computer networking systems
-   - AI-enabled semantic communications
-   - Human-centric AI for user-centric network design
+1. UAV communication:
+   - UAV-assisted information freshness optimization 
+   - Deep reinforcement learning and its applications in UAV cooperation
+   - Trajectory planning and scheduling strategy optimization
 
-2. Network for AI:
-   - Distributed training and inference of large AI models
-   - Next-generation wireless transmission technologies
-   - Edge intelligence
-
-
-> **<span style="color: red; background-color: yellow;">
-I have multiple openings for PhD students, postdoctoral researchers, visiting students, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).
-</span>**
-
----
+2. Semantic communication:
+   - Age of semantic communication
+   - Information value in semantic communication
+   - Deep reinforcement learning-driven semantic communication
 
 News
 ======
