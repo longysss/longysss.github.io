@@ -37,27 +37,8 @@ News
 
 1. [2018] I won the **third prize** of the 15th China Postgraduate mathematical modeling competition of “Huawei Cup”.
 
-1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
+1. I won the second class scholarship for Postgraduates of Sun Yat-sen University in 2022,2023, and 2024.
 
-1. [Aug/2024] I have accepted a Letter of Appointment from the University of Hong Kong (HKU) as an Assistant Professor in the Department of Electrical and Electronic Engineering (EEE). I look forward to contributing to cutting-edge research and collaborating with distinguished colleagues and talented students!
-
-1. [July/2024] I am honored to receive the NTU Graduate College's <font color=green>Research Excellence Award</font>. 
-
-1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
-
-1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
-
-1. [Apr/2024] We will organize a workshop ["Empowering Wireless Communications and Networking with Generative AI"](https://iccc2024.ieee-iccc.org/program/workshops-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!
-
-1. [Mar/2024] We will give a tutorial ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!
-
-1. [Dec/2023] I am honored to receive the  <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>!
-
-1. [Dec/2023] My two projects got the <font color=green>FIRST PRIZE</font> and <font color=green>SECOND PRIZE</font> in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively. We will give presentations in IEEE ICC 2024. See you in Denver, CO, USA! 
-
-1. [Nov/2023] Our project, "*Artificial Intelligence-driven Eyewear: Keys to Metaverse,*" received an <font color=green>Honorary Mention</font> in the 2023 ComSoc Student Competition "Communications Technology Changing the World." As the team leader, I am happy to witness our project to be recognized as one of the top 16 projects globally.
-
-1. [Nov/2023] I am honored to receive the <font color=green>IEEE Signal Processing Society Scholarship</font>, as one of the [inaugural class of recipients](https://signalprocessingsociety.org/newsletter/2023/11/congratulations-inaugural-sps-scholarship-recipients?utm_campaign=SPS%20eNewsletter%202023&utm_medium=email&_hsmi=281986648&_hsenc=p2ANqtz-_KhPmHBT92PkzyP34_yIpWezh_Zfif4hqn5260iMT5l5utOV_ITU55AYOeptSJg-61auuMdrW0CuOGqXeTUJ3cS0DZjA&utm_content=281986648&utm_source=hs_email)!
 
 <details>
 <summary><strong>More News</strong></summary>
