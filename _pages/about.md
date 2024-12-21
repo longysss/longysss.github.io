@@ -45,7 +45,7 @@ Selected First-author Papers
    
 1. **Yusi Long**, Jialin Zhuang, Shimin Gong, Bo Gu, Jing Xu, Jing Deng, ["Exploiting Deep Reinforcement Learning for Stochastic AoI Minimization in NOMA-aided Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10570857), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024. *We proposed a Lyapunov-driven hierarchical proximal policy optimization framework to adapt the users' scheduling strategy and the UAVs' trajectories.*
 
-1. **Yusi Long**, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato, ["AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10001660) **2022 IEEE Global Communications Conference (GLOBECOM)**, Rio de Janeiro, Brazil, 2022. *We proposed a Lyapunov-driven hierarchical proximal policy optimization framework to adapt the users' scheduling strategy and the UAVs' trajectories.*
+1. **Yusi Long**, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato, ["AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10001660) **2022 IEEE Global Communications Conference (GLOBECOM)**, Rio de Janeiro, Brazil, 2022. *We propose a Successive Convex Approximation (SCA) algorithm to optimize the UAV trajectories, aiming to accelerate the data update process by efficiently minimizing the age of information (AoI) and ensuring timely data transmission in UAV-assisted networks.*
 
    
 News
