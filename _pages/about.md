@@ -16,7 +16,7 @@ From Nov-2023 to Nov-2024, I was visiting in Institute for Infocomm Research(I2R
 I obtained my M.S degree at the School of Electronics and Communication Engineering, Guangzhou University (GZHU), supervised by Prof. [Dong Tang](https://ece.gzhu.edu.cn/info/1087/1072.htm). 
 
 My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. 
-The key objective is to explore ***"how to adjust communication strategies to support real-time services in dynamic networks" ***, and  ***"how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks" ***. 
+The key objective is to explore ***how to adjust communication strategies to support real-time services in dynamic networks***, and  ***how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks***. 
 This involves exploring the integration of various networking methodologies:
 
 1. UAV communication:
