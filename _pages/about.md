@@ -10,11 +10,12 @@ redirect_from:
 
 I am a PhD at the **Laboratory of Wireless Intelligence Network and System (WINS)**, the School of Intelligent System Engineering, Sun Yat-sen University (SYSU).
 My supervisor is Prof. [Shimin Gong](https://ise.sysu.edu.cn/teacher/teacher01/1381892.htm).
-I am interested in next-generation network communication and intelligent computing，UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL).
+I am interested in next-generation network communication and intelligent computing.
 I obtained my M.S degree at the School of Electronics and Communication Engineering, Guangzhou University (GZHU), supervised by Prof. [Dong Tang](https://ece.gzhu.edu.cn/info/1087/1072.htm). 
 
-
-My research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:
+My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. 
+Our key objective is to explore <font color=green>"how to adjust communication strategies to support real-time services in dynamic networks"</font>, and <font color=green>"how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks"</font>. 
+This involves exploring the integration of various networking methodologies:
 
 1. AI for Network:
    - Generative artificial intelligence and network optimization
