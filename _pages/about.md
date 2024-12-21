@@ -71,18 +71,20 @@ Selected Collaborative Papers
 
 Awards
 ======
+1. **Second class scholarship** for Postgraduates of Sun Yat-sen University,2022, 2023,2024
+
+1. **China Scholarship Council (CSC) Public Scholarship** for Study Abroad , 2023
+<br/> <font color="#CC5500"><i>&bull; National Public Graduate Program for the Construction of High-Level Universities.<i><font>
+<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 6700 P.h.D students nationwide.<i><font>
+
 1. **Outstanding students in Guangdong Province**, 2021 
 <br/> <font color="#CC5500"><i>&bull; <b>Province-level</b> award from China<i><font>
 <br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 329 postgraduate students selected each year within the province.<i><font>
-1. **NTU Graduate College's Research Excellence Award**, 2024
-<br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.<i><font>
-<br/><img src='/images/Award/gcresearch.png' width= "500"> 
-1. **Best Paper Award** in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
-<br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
-1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-<br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
-<br/><img src='/images/Award/student.jpg' width= "500"> 
-1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
+<br/> <img src='/images/stucom.png' width= "500">
+
+1. **Third Prize** of the 15th China Postgraduate mathematical modeling competition of “Huawei Cup”, 2018
+<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
+
 1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
 <br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
 <br/> <img src='/images/stucom.png' width= "500">
