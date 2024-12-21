@@ -33,7 +33,7 @@ This involves exploring the integration of various networking methodologies:
 Highlighted Ongoing Work
 ======
 
-1. **Yusi Long**, Shimin Gong, Sumei Sun, Gary C.F. Lee, Lanhua Li, Dusit Niyato. ["Lyapunov-guided Deep Reinforcement Learning for Semantic-aware AoI Minimization in UAV-assisted Wireless Networks"](https://arxiv.org/abs/2409.13580), submitted to **IEEE Transactions on Wireless Communications** (IF: 8.9), Major Revision, 2024. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes Large Language Model (LLM)-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.
+1. **Yusi Long**, Shimin Gong, Sumei Sun, Gary C.F. Lee, Lanhua Li, Dusit Niyato. ["Lyapunov-guided Deep Reinforcement Learning for Semantic-aware AoI Minimization in UAV-assisted Wireless Networks"](https://arxiv.org/abs/2409.13580), submitted to **IEEE Transactions on Wireless Communications** (IF: 8.9), Major Revision, 2024. <font color=green> We introduced a novel semantic-aware age-of-information (SAoI) metric that explores the trade-off between data freshness and semantic importance in a UAV-assisted wireless communication network via the Lyapunov-driven deep reinforcement learning framework.
 2. 
 Selected First-author Papers
 ======
