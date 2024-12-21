@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yusi Long(龙钰斯)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "66 Gongchang Road, Guangming District, Shenzhen, China."
+  employer         : "Sun Yat-sen University"
+  uri              :  https://ise.sysu.edu.cn/
+  email            : "longys@mail2.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
