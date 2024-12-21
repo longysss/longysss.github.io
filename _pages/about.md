@@ -31,13 +31,9 @@ This involves exploring the integration of various networking methodologies:
 
 News
 ======
-1. [Dec/2024] I am honored to receive the **IEEE ComSoc Best Young Professional Award** in the "Best Early Career" category.
+1. [2024] I was invited to be a **session chair** in 2024 IEEE Wireless Communications and Networking Conference (WCNC).
 
-1. [Dec/2024] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the **2023 Best Paper Award** from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board.
-
-1. [Nov/2024] I am invited as a keynote speaker at the *International Conference on the Next Generation Intelligent Networks*, organized by Xijiao Institute for Cyber Science and Technology.
-
-1. [Nov/2024] Our project "Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home" received a *Honorary Mention* in the 2024 ComSoc Student Competition "Communications Technology Changing the World".
+1. [2021] I am honored to be an **outstanding student** in Guangdong Province.
 
 1. [Oct/2024] Our paper "DIsFU: Protecting Innocent Clients in Federated Unlearning" has been awarded the **Best Paper Award** in *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*.
 
