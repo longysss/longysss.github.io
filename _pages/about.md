@@ -71,7 +71,7 @@ Selected Collaborative Papers
 
 Awards
 ======
-1. **Second class scholarship** for Postgraduates of Sun Yat-sen University,2022, 2023,2024
+1. **Second class scholarship** for Postgraduates of Sun Yat-sen University, 2022, 2023,2024
 
 1. **China Scholarship Council (CSC) Public Scholarship** for Study Abroad , 2023
 <br/> <font color="#CC5500"><i>&bull; National Public Graduate Program for the Construction of High-Level Universities.<i><font>
@@ -84,48 +84,28 @@ Awards
 
 1. **Third Prize** of the 15th China Postgraduate mathematical modeling competition of “Huawei Cup”, 2018
 <br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-
-1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
-<br/> <img src='/images/stucom.png' width= "500">
-1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 
-<br/><img src='/images/ReTCOM.jpg' width= "500">
-1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 
-<br/><img src='/images/communlett.jpg' width= "500">
-1. **Research Scholarship**, NTU, 2021-2025
-1. **National Scholarship**, Ministry of Education of China, 2020 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-1. **National Scholarship**, Ministry of Education of China, 2018 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-
 ---
 
 Academic Services
 ======
-1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-)**
-1. **Associate Editor, IEEE Transactions on Vehicular Technology (2024-)**
-1. **Guest Editor, IEEE Vehicular Technology Magazine**, *"Integrating Generative AI into Future Internet of Vehicles (IoV)"*, 2024
-1. Workshop Co-chair, "Empowering Wireless Communications and Networking with Generative AI" in IEEE ICCC 2024
-1. TPC Chair, IEEE ICCC 2024, WS-17: Empowering Wireless Communications and Networking with Generative AI
-1. TPC Member: IEEE Globecom 2024 Workshop - IMMLLM6G; IEEE VTC2024-Fall Washington DC: Machine Learning for Communications; IEEE VTC2024-Fall Washington DC: Electric Vehicles, Vehicular Electronics and Intelligent Transportation; IEEE Globecom 2024-SAC BD; IEEE Globecom 2024-SAC ISC; IEEE ICC 2024-CRAIN Symposium (Cognitive Radio and AI-Enabled Networks); IEEE WCNC 2024-Track 3-Machine Learning and Optimization for Wireless Systems; IEEE WCNC 2024-Track 4-Emerging Technologies, Standards, and Applications; IEEE WCNC 2024-Workshop on The Impact of Large Language Models on 6G Networks; IEEE VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications; IEEE VTC2023-Fall: Hong Kong-Electric Vehicles, Vehicular Electronics and Intelligent Transportation; IEEE VTC2023-Fall: Hong Kong-Recent Results and Workshops; IEEE WCNC 2023-Track 3-Machine Learning and Optimization for Wireless Systems; IEEE WCNC 2022-Track 2-Networking and MAC
-1. Reviewer: IEEE COMST, JSAC, TMC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, Network, WCL, CL, ICLR, and more.
+**Conference Session Chair**\
+2024 IEEE Wireless Communications and Networking Conference
 
+**Reviewer** \
+- IEEE Transactions on Vehicular Technology\
+- IEEE Internet of Things Journal\
+- IEEE Network Magazine\
+- IEEE Vehicular Technology Magazine\
+- IEEE Transactions on Mobile Computing
+
+**Volunteer**\
+- IEEE 6G SUMMIT 2023, Singapore\
+- 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore\
+- IEEE 6G SUMMIT 2024, Singapore
 
 Teaching
 ======
-1. SC1005 Digital Logic, Fall 2023
-1. SC2103 Digital Systems Design, Spring 2023
-1. CE3006 Digital Communications, Fall 2022
+1. Student Helper for undergraduates' final year projects (FYP)
 
----
-
-***
-
->*“生活中有很多的不如意，如果一不开心，就寄希望于当初，那你永远不会开心。  
->幻境再美终是梦，珍惜眼前始为真，莫使金樽空对月，举杯幸会有缘人。”*
->
->*---------《武林外传》*
-
-***
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
