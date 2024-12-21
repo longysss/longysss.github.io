@@ -71,19 +71,9 @@ Selected Collaborative Papers
 
 Awards
 ======
-1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Vehicular Technology Society<i><font>
-<br/> <font color="#CC5500"><i>&bull; Only one person is selected globally each year<i><font>
-<br/><img src='/images/VTS.jpg' width= "500"> 
-1. **IEEE Signal Processing Society Scholarship**, 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Signal Processing Society<i><font>
-<br/><img src='/images/sps.png' width= "500"> 
-1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship**, 2023
-<br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year<i><font>
-<br/><img src='/images/sdscaward.jpg' width= "500"> 
-1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
+1. **Outstanding students in Guangdong Province**, 2021 
+<br/> <font color="#CC5500"><i>&bull; <b>Province-level</b> award from China<i><font>
+<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 329 postgraduate students selected each year within the province.<i><font>
 1. **NTU Graduate College's Research Excellence Award**, 2024
 <br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.<i><font>
 <br/><img src='/images/Award/gcresearch.png' width= "500"> 
