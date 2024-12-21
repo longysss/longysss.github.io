@@ -37,7 +37,7 @@ Highlighted Ongoing Work
    
 Selected First-author Papers
 ======
-**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
+**For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
 
 1. **Yusi Long**, Songhan Zhao, Shimin Gong, Bo Gu, Dusit Niyato, Xuemin Shen, ["AoI-Aware Sensing Scheduling and Trajectory Optimization for Multi-UAV-Assisted Wireless Backscatter Networks"](https://ieeexplore.ieee.org/document/10539623), **IEEE Transactions on Vehicular Technology** (Q1, IF:6.1), vol. 73, no. 10, pp. 15440-15455, Oct. 2024.
 
@@ -54,7 +54,7 @@ Selected First-author Papers
 
 Selected Collaborative Papers
 ======
-**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
+**For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
  1. Songhan Zhao, **Yusi Long**, Bo Gu, Nguyen Cong Luong, Bin Lyu, Shimin Gong, ["Exploiting Mode-Switching between Aerial-RIS and Active Radio in UAV-Assisted Wireless Networks."](https://ieeexplore.ieee.org/document/10570593), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024.
 
  1. Zesong Fan, S. Gong, **Yusi Long**, Lanhua Li, Bo Gu and Nguyen Cong Luong, ["Delay-Tolerant Multi-Agent DRL for Trajectory Planning and Transmission Control in UAV-Assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10683468), **2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)**, Singapore, 2024.
@@ -68,8 +68,6 @@ Selected Collaborative Papers
  1. Yuanzheng Tan, **Yusi Long**, Songhan Zhao, Shimin Gong, Dinh Thai Hoang and Dusit Niyato, ["Energy Minimization for Wireless Powered Data Offloading in IRS-assisted MEC for Vehicular Networks,"](https://ieeexplore.ieee.org/document/9824966), **2022 International Wireless Communications and Mobile Computing (IWCMC)**, Dubrovnik, Croatia, 2022.
     
  1. Hang Zhou, **Yusi Long**, Wenjie Zhang, Jing Xu, Shimin Gong, ["Hierarchical Multi-Agent Deep Reinforcement Learning for Backscatter-aided Data Offloading"](https://ieeexplore.ieee.org/document/9771990), **2022 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Austin, TX, USA, 2022.
-
----
 
 Awards
 ======
