@@ -33,8 +33,8 @@ This involves exploring the integration of various networking methodologies:
 Highlighted Ongoing Work
 ======
 
-1. **Yusi Long**, Shimin Gong, Sumei Sun, Gary C.F. Lee, Lanhua Li, Dusit Niyato. ["Lyapunov-guided Deep Reinforcement Learning for Semantic-aware AoI Minimization in UAV-assisted Wireless Networks"](https://arxiv.org/abs/2409.13580), submitted to **IEEE Transactions on Wireless Communications** (IF: 8.9), Major Revision, 2024. <font color=green> We introduced a novel semantic-aware age-of-information (SAoI) metric that explores the trade-off between data freshness and semantic importance in a UAV-assisted wireless communication network via the Lyapunov-driven deep reinforcement learning framework.
-2. 
+1. **Yusi Long**, Shimin Gong, Sumei Sun, Gary C.F. Lee, Lanhua Li, Dusit Niyato. ["Lyapunov-guided Deep Reinforcement Learning for Semantic-aware AoI Minimization in UAV-assisted Wireless Networks"](https://arxiv.org/abs/2409.13580), submitted to **IEEE Transactions on Wireless Communications** (IF: 8.9), Major Revision, 2024. *We introduced a novel semantic-aware age-of-information (SAoI) metric that explores the trade-off between data freshness and semantic importance in a UAV-assisted wireless communication network via the Lyapunov-driven deep reinforcement learning framework.*
+   
 Selected First-author Papers
 ======
 **For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
