@@ -35,7 +35,7 @@ News
 
 1. [2021] I am honored to be an **outstanding student** in Guangdong Province.
 
-1. [Oct/2024] Our paper "DIsFU: Protecting Innocent Clients in Federated Unlearning" has been awarded the **Best Paper Award** in *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*.
+1. [2018] I won the **third prize** of the 15th China Postgraduate mathematical modeling competition of “Huawei Cup”.
 
 1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
 
