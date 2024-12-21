@@ -88,19 +88,19 @@ Awards
 
 Academic Services
 ======
-**Conference Session Chair**\
+**Conference Session Chair**
 2024 IEEE Wireless Communications and Networking Conference
 
-**Reviewer** \
-- IEEE Transactions on Vehicular Technology\
-- IEEE Internet of Things Journal\
-- IEEE Network Magazine\
-- IEEE Vehicular Technology Magazine\
+**Reviewer** 
+- IEEE Transactions on Vehicular Technology
+- IEEE Internet of Things Journal
+- IEEE Network Magazine
+- IEEE Vehicular Technology Magazine
 - IEEE Transactions on Mobile Computing
 
-**Volunteer**\
-- IEEE 6G SUMMIT 2023, Singapore\
-- 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore\
+**Volunteer**
+- IEEE 6G SUMMIT 2023, Singapore
+- 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore
 - IEEE 6G SUMMIT 2024, Singapore
 
 Teaching
