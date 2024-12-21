@@ -52,24 +52,27 @@ Selected First-author Papers
 1. **Yusi Long**, Gaofei Huang, Dong Tang, Sai Zhao, Guiyun Liu, ["Achieving High Throughput in Wireless Networks With Hybrid Backscatter and Wireless-Powered Communications"](https://ieeexplore.ieee.org/document/9321387), **IEEE Internet of Things Journal** (Q1, IF:8.2), vol. 8, no. 13, pp. 10896-10910, Jul., 2021. 
 
 
-
-
-   
-News
-======
-1. [2024] I was invited to be a **session chair** in 2024 IEEE Wireless Communications and Networking Conference (WCNC).
-
-1. [2021] I am honored to be an **outstanding student** in Guangdong Province.
-
-1. [2018] I won the **third prize** of the 15th China Postgraduate mathematical modeling competition of “Huawei Cup”.
-
-1. I won the second class scholarship for Postgraduates of Sun Yat-sen University in 2022,2023, and 2024.
-
----
-
 Selected Collaborative Papers
 ======
-**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
+**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
+ 1. Songhan Zhao, **Yusi Long**, Bo Gu, Nguyen Cong Luong, Bin Lyu, Shimin Gong, ["Exploiting Mode-Switching between Aerial-RIS and Active Radio in UAV-Assisted Wireless Networks."](https://ieeexplore.ieee.org/document/10570593), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024.
+
+ 1. Zesong Fan, S. Gong, **Yusi Long**, Lanhua Li, Bo Gu and Nguyen Cong Luong, ["Delay-Tolerant Multi-Agent DRL for Trajectory Planning and Transmission Control in UAV-Assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10683468), **2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)**, Singapore, 2024.
+ 10. H. Zhou, Y. Long, S. Gong, K. Zhu, D. T. Hoang and D. Niyato, "Hierarchical Multi-Agent Deep Reinforcement
+ Learning for Energy-Efficient Hybrid Computation Offloading," IEEE Transactions on Vehicular Technology, vol.
+ 72, no. 1, pp. 986-1001, Jan. 2023, doi: 10.1109/TVT.2022.3202525.
+ 11. Y. Zou, Y. Long, S. Gong, D. T. Hoang, W. Liu, W. Cheng, D. Niyato, "Robust Beamforming Optimization for
+ Self-Sustainable Intelligent Reflecting Surface Assisted Wireless Networks," IEEE Transactions on Cognitive
+ Communications and Networking, vol. 8, no. 2, pp. 856-870, June 2022, doi: 10.1109/TCCN.2021.3133839.
+ 12. L. Cui, Y. Long, D. T. Hoang and S. Gong, "Hierarchical Learning Approach for Age-of-Information Minimization
+ in Wireless Sensor Networks," in Proc. 2022 IEEE WoWMoM, Belfast, United Kingdom, 2022, pp. 130-136, doi:
+ 10.1109/WoWMoM54355.2022.00024.
+ 13. Y. Tan, Y. Long, S. Zhao, S. Gong, D. T. Hoang and D. Niyato, "Energy Minimization for Wireless Powered Data
+ Offloading in IRS-assisted MEC for Vehicular Networks," in Proc. 2022 IWCMC, Dubrovnik, Croatia, 2022, pp.
+ 731-736, doi: 10.1109/IWCMC55113.2022.9824966.
+ 14. H. Zhou, Y. Long, W. Zhang, J. Xu and S. Gong, "Hierarchical Multi-Agent Deep Reinforcement Learning for
+ Backscatter-aided Data Offloading," in Proc. 2022 IEEE WCNC, Austin, TX, USA, 2022, pp. 542-547, doi:
+ 10.1109/WCNC51071.2022.9771990.
 
 1. Jiawen Kang, **Hongyang Du**, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. ["Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis."](https://arxiv.org/pdf/2209.12274) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), 41, no. 1: 186-201, 2022. <font color=green>We have first presented an energy-efficient task-oriented semantic communication framework with an efficient image retrieval manner based on a triple-based scene graph.</font>
 <br/> <font color="#CC5500"><i>&bull; First Price of Outstanding Papers of Computer Academy of Guangdong (China)<i><font>
