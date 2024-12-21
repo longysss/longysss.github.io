@@ -55,6 +55,8 @@ Selected First-author Papers
 Selected Collaborative Papers
 ======
 **For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
+ 1. Songhan Zhao, **Yusi Long**, Lanhua Li, Bo Gu, Shimin Gong, Zehui Xiong, ["Joint Traffic Reshaping and Channel Reconfiguration in RIS-Assisted Semantic NOMA Communications"],**2025 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Accepted, 2024.
+    
  1. Songhan Zhao, **Yusi Long**, Bo Gu, Nguyen Cong Luong, Bin Lyu, Shimin Gong, ["Exploiting Mode-Switching between Aerial-RIS and Active Radio in UAV-Assisted Wireless Networks."](https://ieeexplore.ieee.org/document/10570593), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024.
 
  1. Zesong Fan, S. Gong, **Yusi Long**, Lanhua Li, Bo Gu and Nguyen Cong Luong, ["Delay-Tolerant Multi-Agent DRL for Trajectory Planning and Transmission Control in UAV-Assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10683468), **2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)**, Singapore, 2024.
