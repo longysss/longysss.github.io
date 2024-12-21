@@ -10,13 +10,13 @@ redirect_from:
 
 I am a PhD at the **Laboratory of Wireless Intelligence Network and System (WINS)**, the School of Intelligent System Engineering, Sun Yat-sen University (SYSU).
 My supervisor is Prof. [Shimin Gong](https://ise.sysu.edu.cn/teacher/teacher01/1381892.htm) .
-I am interested in next-generation network communication and intelligent computing.
+I am interested in next-generation network communication and intelligent computing.\
 From Nov-2023 to Nov-2024, I was visiting in Institute for Infocomm Research(I2R), the Agency for Science, Technology and Research (A*STAR), Singapore, supervised by Prof. 
 [Sun Sumei](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and Prof.[Dusit Niyato](https://personal.ntu.edu.sg/dniyato/).
 I obtained my M.S degree at the School of Electronics and Communication Engineering, Guangzhou University (GZHU), supervised by Prof. [Dong Tang](https://ece.gzhu.edu.cn/info/1087/1072.htm). 
 
-My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. 
-The key objective is to explore *how to adjust communication strategies to support real-time services in dynamic networks*, and *how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks*. 
+My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. \
+The key objective is to explore *how to adjust communication strategies to support real-time services in dynamic networks*, and *how cooperative-UAV mechanisms improve the performance and the anti-interference ability of networks*. \
 This involves exploring the integration of various networking methodologies:
 
 1. UAV communication:
