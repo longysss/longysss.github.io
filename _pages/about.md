@@ -45,7 +45,7 @@ Selected First-author Papers
    
 1. **Yusi Long**, Jialin Zhuang, Shimin Gong, Bo Gu, Jing Xu, Jing Deng, ["Exploiting Deep Reinforcement Learning for Stochastic AoI Minimization in NOMA-aided Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10570857), **2024 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Dubai, United Arab Emirates, 2024. 
 
-1. **Yusi Long**, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato, ["AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10001660) **2022 IEEE Global Communications Conference (GLOBECOM)** (CCF C), Rio de Janeiro, Brazil, 2022.
+1. **Yusi Long**, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato, ["AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10001660), **2022 IEEE Global Communications Conference (GLOBECOM)** (CCF C), Rio de Janeiro, Brazil, 2022.
    
 1. **Yusi Long**, Gaofei Huang, Hui Zheng, Sai Zhao, Guiyun Liu, Dong Tang, ["Cooperative Multirelay Network Design With Hybrid Backscatter and Wireless-Powered Relaying"](https://ieeexplore.ieee.org/document/9738821), **IEEE Internet of Things Journal** (Q1, IF:8.2), vol. 9, no. 19, pp. 18445-18460, Oct., 2022.
    
@@ -55,7 +55,7 @@ Selected First-author Papers
 Selected Collaborative Papers
 ======
 **For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
- 1. Songhan Zhao, **Yusi Long**, Lanhua Li, Bo Gu, Shimin Gong, Zehui Xiong, ["Joint Traffic Reshaping and Channel Reconfiguration in RIS-Assisted Semantic NOMA Communications"],**2025 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Accepted, 2024.
+ 1. Songhan Zhao, **Yusi Long**, Lanhua Li, Bo Gu, Shimin Gong, Zehui Xiong, ["Joint Traffic Reshaping and Channel Reconfiguration in RIS-Assisted Semantic NOMA Communications"], **2025 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Accepted, 2024.
     
  1. Songhan Zhao, **Yusi Long**, Bo Gu, Nguyen Cong Luong, Bin Lyu, Shimin Gong, ["Exploiting Mode-Switching between Aerial-RIS and Active Radio in UAV-Assisted Wireless Networks."](https://ieeexplore.ieee.org/document/10570593), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024.
 
@@ -108,5 +108,3 @@ Teaching
 ======
 1. Student Helper for undergraduates' final year projects (FYP)
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
