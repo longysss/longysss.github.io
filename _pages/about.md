@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 I am a PhD at the **Laboratory of Wireless Intelligence Network and System (WINS)**, the School of Intelligent System Engineering, Sun Yat-sen University (SYSU).
-My supervisor is Prof. [Shimin Gong](https://ise.sysu.edu.cn/teacher/teacher01/1381892.htm).
+My supervisor is Prof. [Shimin Gong](https://ise.sysu.edu.cn/teacher/teacher01/1381892.htm) .
 I am interested in next-generation network communication and intelligent computing.
+From Nov-2023 to Nov-2024, I was visiting in Institute for Infocomm Research(I2R), the Agency for Science, Technology and Research (A*STAR), Singapore, supervised by Prof. 
+[Sun Sumei](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and Prof. [Dusit Niyato] (https://personal.ntu.edu.sg/dniyato/).
 I obtained my M.S degree at the School of Electronics and Communication Engineering, Guangzhou University (GZHU), supervised by Prof. [Dong Tang](https://ece.gzhu.edu.cn/info/1087/1072.htm). 
 
 My research is primarily centered around **UAV communication，semantic communication, age of information (AoI) and optimization-driven deep reinforcement learning (DRL)**. 
@@ -29,7 +31,6 @@ This involves exploring the integration of various networking methodologies:
 
 News
 ======
-
 1. [Dec/2024] I am honored to receive the **IEEE ComSoc Best Young Professional Award** in the "Best Early Career" category.
 
 1. [Dec/2024] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the **2023 Best Paper Award** from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board.
