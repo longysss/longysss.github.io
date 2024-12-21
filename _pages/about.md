@@ -43,9 +43,11 @@ Selected First-author Papers
 
 1. **Yusi Long**, Gary C.F. Lee, Lanhua Li, Shimin Gong, Sumei Sun, Dusit Niyato, ["Semantic Pre-Extraction for Energy-efficient AoI Minimization in UAV-assisted Wireless Networks"],  **2025 IEEE Wireless Communications and Networking Conference (WCNC)** (CCF C), Accepted, 2024. *We propose a pre-extraction mechanism in a UAV-assisted semantic communication network. The simulation results show that the pre-extraction mechanism can significantly maintain information freshness while prolonging the users' lifetime.*
    
-1.  **Yusi Long**, Jialin Zhuang, Shimin Gong, Bo Gu, Jing Xu, Jing Deng, ["Exploiting Deep Reinforcement Learning for Stochastic AoI Minimization in NOMA-aided Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10570857), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024. *We proposed a Lyapunov-driven hierarchical proximal policy optimization framework to adapt the users' scheduling strategy and the UAVs' trajectories.*
+1. **Yusi Long**, Jialin Zhuang, Shimin Gong, Bo Gu, Jing Xu, Jing Deng, ["Exploiting Deep Reinforcement Learning for Stochastic AoI Minimization in NOMA-aided Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10570857), **2024 IEEE Wireless Communications and Networking Conference (WCNC)**, Dubai, United Arab Emirates, 2024. *We proposed a Lyapunov-driven hierarchical proximal policy optimization framework to adapt the users' scheduling strategy and the UAVs' trajectories.*
 
+1. **Yusi Long**, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato, ["AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks"](https://ieeexplore.ieee.org/document/10001660) **2022 IEEE Global Communications Conference (GLOBECOM)**, Rio de Janeiro, Brazil, 2022. *We proposed a Lyapunov-driven hierarchical proximal policy optimization framework to adapt the users' scheduling strategy and the UAVs' trajectories.*
 
+   
 News
 ======
 1. [2024] I was invited to be a **session chair** in 2024 IEEE Wireless Communications and Networking Conference (WCNC).
