@@ -37,7 +37,7 @@ Highlighted Ongoing Work
 2. 
 Selected First-author Papers
 ======
-**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
+**For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), Accepted, 2023. <font color=green>We analyze the performance of full-duplex D2D communications. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism that generates the optimal contract design, outperforming two DRL algorithms.</font> [Code](https://github.com/HongyangDu/SemSharing).
 <br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - October 2023 <i><font>
