@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "self.png"
   name             : "Yusi Long(龙钰斯)"
-  pronouns         : "she"  
-  bio              : "Short biography for the left-hand sidebar"
+ # pronouns         : "she"  
+  bio              : "PhD student of Sun Yat-sen University, visiting PhD in Institute for Infocomm Research(I2R),  the Agency for Science, Technology and Research (A*STAR), Singapore"
   location         : "66 Gongchang Road, Guangming District, Shenzhen, China."
   employer         : "Sun Yat-sen University"
   #uri              :  https://ise.sysu.edu.cn/
