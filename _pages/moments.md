@@ -30,6 +30,14 @@ author_profile: true
 
 
 <img src='/images/wcnc-yusi.png' width = "500"><br/>
+<img src='/images/wcnc2024-yuanwei.png' width = "500"><br/>
 > Presenting at WCNC in Dubai is a great experience！
->
-> 
+
+<img src='/images/wins-wangmeng.png' width = "500"><br/>
+> Presenting at WCNC in Dubai is a great experience！
+
+<img src='/images/wins-zhouhang.png' width = "500"><br/>
+> Presenting at WCNC in Dubai is a great experience！
+
+<img src='/images/yusi-farewell.png' width = "500"><br/>
+> Presenting at WCNC in Dubai is a great experience！
