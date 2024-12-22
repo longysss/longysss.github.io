@@ -8,8 +8,6 @@ author_profile: true
 #   - /Awards.html
 ---
 
-
-Awards
 ======
 1. **Second class scholarship** for Postgraduates of Sun Yat-sen University, 2022, 2023,2024
 
