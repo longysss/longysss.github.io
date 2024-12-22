@@ -1,5 +1,5 @@
 ---
-permalink: /moments/
+permalink: /Moments/
 title: "Moments"
 excerpt: ""
 author_profile: true
