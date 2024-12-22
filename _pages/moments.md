@@ -41,6 +41,8 @@ Lab Moments
 <img src='/images/WINS-sg.png' width = "500"><br/>
 > So happy to have the WINs Lab classmates here in Singapore for a study tour!
 
+<img src='/images/wins-lib.png' width = "500"><br/>
+> Graduation of WINs Lab Class of 2023！
 
 <img src='/images/wins-wangmeng.png' width = "500"><br/>
 > Graduation of WINs Lab Class of 2023！
