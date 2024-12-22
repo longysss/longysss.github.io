@@ -10,3 +10,7 @@ author_profile: true
 
 <img src='/images/yusi-sherman.png' width = "500"><br/>
 > Have a disccusion with Prof. Sherman, 6G summit in Singapore (Dec-2023)
+
+
+<img src='/images/yusi-sherman.png' width = "500"><br/>
+> Have a disccusion with Prof. Sherman, 6G summit in Singapore (Dec-2023)
