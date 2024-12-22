@@ -8,6 +8,9 @@ author_profile: true
 #   - /publications.html
 ---
 
+**For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
+
+
 Highlighted Ongoing Work
 ======
 
@@ -15,10 +18,9 @@ Highlighted Ongoing Work
    
 Journal Papers
 ======
-**For all publications, please refer to [this](https://longysss.github.io//publications/) or my [google scholar](https://scholar.google.com/citations?hl=en&user=I5j8zqIAAAAJ&view_op=list_works&sortby=pubdate).**
 
 1. **Yusi Long**, Songhan Zhao, Shimin Gong, Bo Gu, Dusit Niyato, Xuemin Shen, ["AoI-Aware Sensing Scheduling and Trajectory Optimization for Multi-UAV-Assisted Wireless Backscatter Networks"](https://ieeexplore.ieee.org/document/10539623), **IEEE Transactions on Vehicular Technology** (Q1, IF:6.1), vol. 73, no. 10, pp. 15440-15455, Oct. 2024.
-   
+
 1. **Yusi Long**, Gaofei Huang, Hui Zheng, Sai Zhao, Guiyun Liu, Dong Tang, ["Cooperative Multirelay Network Design With Hybrid Backscatter and Wireless-Powered Relaying"](https://ieeexplore.ieee.org/document/9738821), **IEEE Internet of Things Journal** (Q1, IF:8.2), vol. 9, no. 19, pp. 18445-18460, Oct., 2022.
    
 1. **Yusi Long**, Gaofei Huang, Dong Tang, Sai Zhao, Guiyun Liu, ["Achieving High Throughput in Wireless Networks With Hybrid Backscatter and Wireless-Powered Communications"](https://ieeexplore.ieee.org/document/9321387), **IEEE Internet of Things Journal** (Q1, IF:8.2), vol. 8, no. 13, pp. 10896-10910, Jul., 2021. 
