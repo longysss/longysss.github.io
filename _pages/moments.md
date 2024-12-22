@@ -1,10 +1,10 @@
 ---
-permalink: /Awards/
-title: "Awards"
+permalink: /moments/
+title: "Moments"
 excerpt: ""
 author_profile: true
 # redirect_from: 
-#   # - /Awards/
-#   - /Awards.html
+#   # - /Moments/
+#   - /Moments.html
 ---
 
