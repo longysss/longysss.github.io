@@ -8,5 +8,5 @@ author_profile: true
 #   - /Moments.html
 ---
 
-<img src='/images/NICE.png' width = "500"><br/>
+<img src='/images/yusi-sherman.png' width = "500"><br/>
 > with sherman
